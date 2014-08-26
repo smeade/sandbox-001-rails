@@ -12,7 +12,7 @@ An empty Rails application. There's nothing to see here.
 
         rake db:create
 
-3. Change directory to `myapp` and start the web server:
+3. Start the web server:
 
         rails server
 
