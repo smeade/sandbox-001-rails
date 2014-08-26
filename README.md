@@ -4,7 +4,7 @@ An empty Rails application. There's nothing to see here.
 
 ## Getting Started
 
-1. Install gems if you haven't yet:
+1. Install gems:
 
         bundle install
 
